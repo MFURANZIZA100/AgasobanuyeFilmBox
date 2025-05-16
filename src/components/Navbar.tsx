@@ -79,7 +79,7 @@ export default function Navbar() {
                 className="block px-3 py-2 rounded-md text-base font-medium hover:bg-red-800"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Admin
+                mfuranzizahamza
               </Link>
             )}
             {isAuthenticated ? (

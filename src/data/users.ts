@@ -3,9 +3,9 @@ import  { User } from '../types';
 export const users: User[] = [
   {
     id: '1',
-    username: 'admin',
-    email: 'admin@example.com',
-    password: 'admin123',
+    username: 'mfuranzizahamza',
+    email: 'mfuranzizahamza@gmail.com',
+    password: '12345',
     isAdmin: true
   },
   {

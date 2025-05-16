@@ -60,15 +60,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-red-500 mr-2 mt-0.5" />
-                <span className="text-gray-400">KN 7 Ave, Kigali, Rwanda</span>
+                <span className="text-gray-400">KN 7 Ave, Rubavu, Rwanda</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-red-500 mr-2" />
-                <span className="text-gray-400">+250 7XX XXX XXX</span>
+                <span className="text-gray-400">+250 796132866</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-red-500 mr-2" />
-                <span className="text-gray-400">info@agasobanuyefilmbox.com</span>
+                <span className="text-gray-400">mfuranzizahamza@gmailcom</span>
               </li>
             </ul>
           </div>
